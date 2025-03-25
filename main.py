@@ -10,7 +10,7 @@ conn = st.connection(
     host="localhost",
     database="mundo",
     username="root",  # Add your MySQL  username
-    password="Zyzser-resbih-kezqu0"   # Add your MySQL password
+    password=""   # Add your MySQL password
 )
 
 def main():
