@@ -10,7 +10,11 @@ conn = st.connection(
     host="localhost",
     database="mundo",
     username="root",  # Add your MySQL  username
+<<<<<<< HEAD
     password="Zyzser-resbih-kezqu0"   # Using Streamlit secrets for MySQL password
+=======
+    password=""   # Add your MySQL password
+>>>>>>> 9ca9a161644783b6010dbad3d8b8c2e58f39de14
 )
 
 def main():
