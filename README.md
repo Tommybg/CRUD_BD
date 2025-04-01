@@ -1,6 +1,6 @@
 # Explorador Avanzado MySQL
 
-Este proyecto es una herramienta interactiva desarrollada con Streamlit que te permite explorar bases de datos MySQL de manera eficiente. A continuación, se detallan las funcionalidades que ofrece esta aplicación:
+Este proyecto es una herramienta interactiva desarrollada con [Streamlit](https://streamlit.io/) que te permite explorar bases de datos MySQL de manera eficiente. A continuación, se detallan las funcionalidades que ofrece esta aplicación:
 
 1. **Conexión Segura**: Puedes conectarte a un servidor MySQL utilizando credenciales seguras que se almacenan en un archivo `.env`. Asegúrate de que este archivo contenga las variables necesarias para la conexión.
 
