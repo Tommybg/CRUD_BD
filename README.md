@@ -85,13 +85,3 @@ streamlit run main.py
 
 La aplicación se abrirá en tu navegador, normalmente en `http://localhost:8501`.
 
-
-## Estructura del Proyecto
-
-```plaintext
-explorador_mysql/
-├── main.py              # Código principal de la aplicación Streamlit.
-├── requirements.txt     # Lista de dependencias necesarias.
-└── README.md            # Instrucciones para instalación, configuración y ejecución.
-```
-
